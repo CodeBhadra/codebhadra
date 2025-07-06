@@ -7,3 +7,6 @@
 - 👯 I’m looking to collaborate on AI Project
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: shreyansh.workid@gmail.com
+
+![Visits](https://img.shields.io/badge/Visits-0-blue)
+
