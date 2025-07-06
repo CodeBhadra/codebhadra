@@ -15,10 +15,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 498 Bytes Used in GitHub's Storage 
@@ -31,14 +27,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-🌆 Daytime                27 commits          ██████████████░░░░░░░░░░░   55.10 % 
-🌃 Evening                14 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌙 Night                  2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -55,36 +43,15 @@ Sunday                   33 commits          ███████████�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ████████████████░░░░░░░░░   62.50 % 
-HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/CodeBhadra/CodeBhadra/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2025 08:03:15 UTC
+ Last Updated on 06/07/2025 08:09:09 UTC
 <!--END_SECTION:waka-->
 
