@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with ML
 - 📫 How to reach me: shreyansh.workid@gmail.com
 
-![Visits](https://img.shields.io/badge/Visits-2-blue)
+![Visits](https://img.shields.io/badge/Visits-3-blue)
 
