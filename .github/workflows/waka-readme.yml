@@ -19,9 +19,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
           # Optional flags (you can remove any you don’t want)
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
+          
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
