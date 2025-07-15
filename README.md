@@ -17,9 +17,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 674 Bytes Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2025
+> 📦 691 Bytes Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -44,7 +42,7 @@ Sunday                   33 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Markdown                 24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -52,6 +50,6 @@ Markdown                 24 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/CodeBhadra/CodeBhadra/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 18:53:31 UTC
+ Last Updated on 15/07/2025 18:52:54 UTC
 <!--END_SECTION:waka-->
 
