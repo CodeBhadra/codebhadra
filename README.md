@@ -17,7 +17,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 807 Bytes Used in GitHub's Storage 
+> 📦 824 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,6 +52,6 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/CodeBhadra/CodeBhadra/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 18:53:16 UTC
+ Last Updated on 23/07/2025 18:52:42 UTC
 <!--END_SECTION:waka-->
 
